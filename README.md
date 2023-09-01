@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://dev.to/andreapeterson">
-    <img src="https://img.shields.io/badge/Dev-white?style=for-the-badge&logo=devdotton&logoColor=black" alt="Dev Badge"/>
+    <img src="https://img.shields.io/badge/devdotto-white?style=for-the-badge&logo=devdotton&logoColor=black" alt="Dev Badge"/>
   </a>
 </div>
 <!--
