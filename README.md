@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
+  
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andreapeterson4/">
@@ -9,6 +10,10 @@
     <img src="https://img.shields.io/badge/Dev.to-white?style=for-the-badge&logo=devdotto&logoColor=black" alt="DevDotTo Badge"/>
   </a>
 </div>
+
+---
+
+### :woman_technologist: About Me :
 <!--
 **andreapeterson/andreapeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
