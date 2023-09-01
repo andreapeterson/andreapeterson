@@ -14,6 +14,9 @@
 ---
 
 ### :woman_technologist: About Me :
+![octocat-1693548388270](https://github.com/andreapeterson/andreapeterson/assets/134665743/57315373-dbd8-4a1c-b4e9-b91a54e62dd7)
+
+
 <!--
 **andreapeterson/andreapeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,5 +29,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![octocat-1693548388270](https://github.com/andreapeterson/andreapeterson/assets/134665743/cceb180c-3bcf-49c4-969c-e60ca4cfd9b0)
+
 -->
