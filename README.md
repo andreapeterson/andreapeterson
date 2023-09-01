@@ -14,7 +14,8 @@
 ---
 
 ### :woman_technologist: About Me :
-![octocat-1693548388270](https://github.com/andreapeterson/andreapeterson/assets/134665743/57315373-dbd8-4a1c-b4e9-b91a54e62dd7)
+<img src="https://github.com/andreapeterson/andreapeterson/assets/134665743/57315373-dbd8-4a1c-b4e9-b91a54e62dd7" alt="drawing" width="200"/>
+
 
 
 <!--
